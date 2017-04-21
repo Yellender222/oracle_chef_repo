@@ -1,0 +1,1351 @@
+{
+  "name": "YIETHA-LAP.oradev.oraclecorp.com",
+  "normal": {
+    "tags": [
+
+    ]
+  },
+  "automatic": {
+    "cpu": {
+      "0": {
+        "cores": 2,
+        "vendor_id": "GenuineIntel",
+        "family": "205",
+        "model": "14857",
+        "stepping": "9",
+        "physical_id": "CPU0",
+        "model_name": "Intel64 Family 6 Model 58 Stepping 9",
+        "mhz": "2701",
+        "cache_size": "512 KB"
+      },
+      "total": 4,
+      "cores": 2,
+      "real": 1
+    },
+    "filesystem": {
+      "C:": {
+        "kb_size": 146799587,
+        "kb_available": 60763955,
+        "kb_used": 86035632,
+        "percent_used": 58,
+        "mount": "C:",
+        "fs_type": "ntfs",
+        "volume_name": "System"
+      },
+      "D:": {
+        "kb_size": 342568726,
+        "kb_available": 308880101,
+        "kb_used": 33688625,
+        "percent_used": 9,
+        "mount": "D:",
+        "fs_type": "ntfs",
+        "volume_name": "Data"
+      },
+      "F:": {
+        "kb_size": 0,
+        "kb_available": 0,
+        "kb_used": 0,
+        "percent_used": 0,
+        "mount": "F:",
+        "volume_name": null
+      }
+    },
+    "kernel": {
+      "os_info": {
+        "boot_device": "\\Device\\HarddiskVolume2",
+        "build_number": "7601",
+        "build_type": "Multiprocessor Free",
+        "caption": "Microsoft Windows 7 Professional ",
+        "code_set": "1252",
+        "country_code": "1",
+        "creation_class_name": "Win32_OperatingSystem",
+        "cs_creation_class_name": "Win32_ComputerSystem",
+        "csd_version": "Service Pack 1",
+        "cs_name": "YIETHA-LAP",
+        "current_time_zone": 330,
+        "data_execution_prevention_32_bit_applications": false,
+        "data_execution_prevention_available": true,
+        "data_execution_prevention_drivers": true,
+        "data_execution_prevention_support_policy": 2,
+        "debug": false,
+        "description": "",
+        "distributed": false,
+        "encryption_level": 256,
+        "foreground_application_boost": 2,
+        "free_physical_memory": "1556192",
+        "free_space_in_paging_files": "7988576",
+        "free_virtual_memory": "9280120",
+        "install_date": "20151022145413.000000+330",
+        "large_system_cache": null,
+        "last_boot_up_time": "20170420101545.125599+330",
+        "local_date_time": "20170420164404.900000+330",
+        "locale": "0409",
+        "manufacturer": "Microsoft Corporation",
+        "max_number_of_processes": -1,
+        "max_process_memory_size": "8589934464",
+        "mui_languages": [
+          "en-US"
+        ],
+        "name": "Microsoft Windows 7 Professional |C:\\windows|\\Device\\Harddisk0\\Partition2",
+        "number_of_licensed_users": 0,
+        "number_of_processes": 143,
+        "number_of_users": 3,
+        "operating_system_sku": 48,
+        "organization": "Oracle Corporation",
+        "os_architecture": "64-bit",
+        "os_language": 1033,
+        "os_product_suite": 256,
+        "os_type": 18,
+        "other_type_description": null,
+        "pae_enabled": null,
+        "plus_product_id": null,
+        "plus_version_number": null,
+        "primary": true,
+        "product_type": 1,
+        "registered_user": "Yellaiah Ietha",
+        "serial_number": "00371-868-0000007-85327",
+        "service_pack_major_version": 1,
+        "service_pack_minor_version": 0,
+        "size_stored_in_paging_files": "8291564",
+        "status": "OK",
+        "suite_mask": 272,
+        "system_device": "\\Device\\HarddiskVolume2",
+        "system_directory": "C:\\windows\\system32",
+        "system_drive": "C:",
+        "total_swap_space_size": null,
+        "total_virtual_memory_size": "16581268",
+        "total_visible_memory_size": "8291564",
+        "version": "6.1.7601",
+        "windows_directory": "C:\\windows"
+      },
+      "name": "Microsoft Windows 7 Professional ",
+      "release": "6.1.7601",
+      "version": "6.1.7601 Service Pack 1 Build 7601",
+      "os": "WINNT",
+      "cs_info": {
+        "admin_password_status": 3,
+        "automatic_managed_pagefile": true,
+        "automatic_reset_boot_option": false,
+        "automatic_reset_capability": true,
+        "boot_option_on_limit": null,
+        "boot_option_on_watch_dog": null,
+        "boot_rom_supported": true,
+        "bootup_state": "Normal boot",
+        "caption": "YIETHA-LAP",
+        "chassis_bootup_state": 3,
+        "creation_class_name": "Win32_ComputerSystem",
+        "current_time_zone": 330,
+        "daylight_in_effect": null,
+        "description": "AT/AT COMPATIBLE",
+        "dns_host_name": "YIETHA-LAP",
+        "domain": "oradev.oraclecorp.com",
+        "domain_role": 1,
+        "enable_daylight_savings_time": true,
+        "front_panel_reset_status": 3,
+        "infrared_supported": false,
+        "initial_load_info": null,
+        "install_date": null,
+        "keyboard_password_status": 3,
+        "last_load_info": null,
+        "manufacturer": "Dell Inc.",
+        "model": "Latitude E6430",
+        "name": "YIETHA-LAP",
+        "name_format": null,
+        "network_server_mode_enabled": true,
+        "number_of_logical_processors": 4,
+        "number_of_processors": 1,
+        "oem_string_array": [
+          "Dell System",
+          "1[0534]",
+          "3[1.0]",
+          "12[www.dell.com]",
+          "14[1]",
+          "15[0]"
+        ],
+        "part_of_domain": true,
+        "pause_after_reset": "-1",
+        "pc_system_type": 2,
+        "power_management_capabilities": null,
+        "power_management_supported": null,
+        "power_on_password_status": 3,
+        "power_state": 0,
+        "power_supply_state": 3,
+        "primary_owner_contact": null,
+        "primary_owner_name": "Yellaiah Ietha",
+        "reset_capability": 1,
+        "reset_count": -1,
+        "reset_limit": -1,
+        "roles": [
+          "LM_Workstation",
+          "LM_Server",
+          "NT"
+        ],
+        "status": "OK",
+        "support_contact_description": [
+          "For details on how to request support for your region please see:",
+          "https://expresssr.oraclecorp.com",
+          "",
+          "",
+          "",
+          ""
+        ],
+        "system_startup_delay": null,
+        "system_startup_options": null,
+        "system_startup_setting": null,
+        "system_type": "x64-based PC",
+        "thermal_state": 3,
+        "total_physical_memory": "8490561536",
+        "user_name": "YIETHA-LAP\\yietha",
+        "wake_up_type": 6,
+        "workgroup": null
+      },
+      "machine": "x86_64"
+    },
+    "memory": {
+      "swap": {
+        "total": "8291564kB",
+        "free": "7988576kB"
+      },
+      "total": "8291564kB",
+      "free": "1556148kB"
+    },
+    "network": {
+      "interfaces": {
+        "0xb": {
+          "configuration": {
+            "ip_address": [
+              "10.176.59.217",
+              "fe80::68fa:1017:98e9:9d31",
+              "2606:b400:c10:c070:1cd8:492f:70e7:cb17",
+              "2606:b400:c10:c070:68fa:1017:98e9:9d31"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000007] Intel(R) 82579LM Gigabit Network Connection",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": [
+              "10.176.56.1",
+              "fe80::5:73ff:fea0:3c"
+            ],
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "Intel(R) 82579LM Gigabit Network Connection",
+            "dhcp_enabled": true,
+            "dhcp_lease_expires": "20170420214927.000000+330",
+            "dhcp_lease_obtained": "20170420154927.000000+330",
+            "dhcp_server": "10.254.41.5",
+            "dns_domain": "idc.oracle.com",
+            "dns_domain_suffix_search_order": [
+              "oradev.oraclecorp.com",
+              "idc.oracle.com"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "YIETHA-LAP",
+            "dns_server_search_order": [
+              "206.223.27.2",
+              "206.223.27.1",
+              "10.254.79.138"
+            ],
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": [
+              0,
+              256
+            ],
+            "igmp_level": null,
+            "index": 7,
+            "interface_index": 11,
+            "ip_connection_metric": 10,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.252.0",
+              "64",
+              "128",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "F0:1F:AF:5F:D5:72",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "e1cexpress",
+            "setting_id": "{8D408FD8-F9B9-4452-A855-9ACCA54F01D6}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000007] Intel(R) 82579LM Gigabit Network Connection",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "Intel(R) 82579LM Gigabit Network Connection",
+            "device_id": "7",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{8D408FD8-F9B9-4452-A855-9ACCA54F01D6}",
+            "index": 7,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 11,
+            "last_error_code": null,
+            "mac_address": "F0:1F:AF:5F:D5:72",
+            "manufacturer": "Intel",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "Intel(R) 82579LM Gigabit Network Connection",
+            "net_connection_id": "Local Area Connection",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "PCI\\VEN_8086&DEV_1502&SUBSYS_05341028&REV_04\\3&11583659&0&C8",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "Intel(R) 82579LM Gigabit Network Connection",
+            "service_name": "e1cexpress",
+            "speed": "1000000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "YIETHA-LAP",
+            "time_of_last_reset": "20170420101545.125599+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "10.176.59.217": {
+              "prefixlen": "22",
+              "netmask": "255.255.252.0",
+              "broadcast": "10.176.59.255",
+              "family": "inet"
+            },
+            "fe80::68fa:1017:98e9:9d31": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "2606:b400:c10:c070:1cd8:492f:70e7:cb17": {
+              "prefixlen": "128",
+              "family": "inet6"
+            },
+            "2606:b400:c10:c070:68fa:1017:98e9:9d31": {
+              "prefixlen": "64",
+              "family": "inet6"
+            },
+            "F0:1F:AF:5F:D5:72": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "10.176.56.1": "00:00:0c:9f:f0:28",
+            "10.176.56.16": "00:40:8c:9b:6f:83",
+            "10.176.56.17": "00:40:8c:9d:41:86",
+            "10.176.56.18": "00:40:8c:9d:41:b2",
+            "10.176.56.19": "00:40:8c:9d:27:6c",
+            "10.176.56.21": "ac:cc:8e:78:97:2a",
+            "10.176.56.22": "ac:cc:8e:78:97:72",
+            "10.176.56.23": "ac:cc:8e:78:98:25",
+            "10.176.56.24": "ac:cc:8e:18:31:6a",
+            "10.176.56.25": "ac:cc:8e:18:31:41",
+            "10.176.56.26": "ac:cc:8e:78:96:f5",
+            "10.176.56.27": "ac:cc:8e:78:97:97",
+            "10.176.56.31": "00:40:8c:f5:77:1e",
+            "10.176.56.150": "00:26:73:bf:3c:e3",
+            "10.176.56.151": "ac:cc:8e:18:31:73",
+            "10.176.58.130": "c8:5b:76:2d:fe:6f",
+            "10.176.58.149": "f0:1f:af:30:d9:08",
+            "10.176.58.172": "5c:26:0a:6e:74:b1",
+            "10.176.58.188": "b8:ca:3a:bd:59:cf",
+            "10.176.59.108": "b8:ca:3a:b6:52:3e",
+            "10.176.59.113": "c8:5b:76:a6:96:92",
+            "10.176.59.134": "fc:4d:d4:4c:d5:eb",
+            "10.176.59.136": "f8:b1:56:98:a1:8b",
+            "10.176.59.139": "b8:6b:23:30:0f:ca",
+            "10.176.59.146": "28:d2:44:40:74:12",
+            "10.176.59.147": "b8:6b:23:0d:67:be",
+            "10.176.59.149": "ec:f4:bb:55:59:c0",
+            "10.176.59.151": "c8:5b:76:90:8c:ae",
+            "10.176.59.157": "b8:6b:23:bb:87:ce",
+            "10.176.59.158": "b8:6b:23:69:f1:c4",
+            "10.176.59.159": "b8:6b:23:90:f9:23",
+            "10.176.59.165": "c8:5b:76:2e:04:4b",
+            "10.176.59.166": "b8:6b:23:e2:71:c7",
+            "10.176.59.168": "50:7b:9d:d3:50:33",
+            "10.176.59.179": "c8:5b:76:2d:f3:52",
+            "10.176.59.184": "b8:6b:23:03:87:ce",
+            "10.176.59.185": "b8:6b:23:1b:72:cc",
+            "10.176.59.187": "b8:6b:23:33:52:c3",
+            "10.176.59.195": "f8:b1:56:c3:a1:78",
+            "10.176.59.200": "b8:6b:23:6c:18:ba",
+            "10.176.59.201": "28:d2:44:3f:f1:83",
+            "10.176.59.202": "50:7b:9d:bf:9b:6d",
+            "10.176.59.203": "fc:4d:d4:4c:d6:0b",
+            "10.176.59.204": "c8:5b:76:33:76:b5",
+            "10.176.59.205": "b8:6b:23:8f:e1:b7",
+            "10.176.59.208": "c8:5b:76:a8:07:ab",
+            "10.176.59.209": "b8:6b:23:0b:9c:77",
+            "10.176.59.216": "b8:6b:23:61:fa:ba",
+            "10.176.59.220": "b8:6b:23:ce:f9:ba",
+            "10.176.59.222": "b8:6b:23:41:f0:79",
+            "10.176.59.224": "ec:f4:bb:18:6a:80",
+            "10.176.59.226": "b8:ca:3a:ca:0e:30",
+            "10.176.59.235": "f0:1f:af:5f:d3:8d",
+            "10.176.59.237": "28:d2:44:71:9f:56",
+            "10.176.59.249": "c8:5b:76:2b:ed:57",
+            "10.176.59.251": "c8:5b:76:0e:c5:cd",
+            "10.176.59.253": "c8:5b:76:a8:0e:32",
+            "10.176.59.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.2": "01:00:5e:00:00:02",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa",
+            "255.255.255.255": "ff:ff:ff:ff:ff:ff"
+          },
+          "encapsulation": "Ethernet"
+        },
+        "0x12": {
+          "configuration": {
+            "ip_address": [
+              "192.168.56.1",
+              "fe80::d5ed:93a3:c8f9:138d"
+            ],
+            "arp_always_source_route": null,
+            "arp_use_ether_snap": null,
+            "caption": "[00000016] VirtualBox Host-Only Ethernet Adapter",
+            "database_path": "%SystemRoot%\\System32\\drivers\\etc",
+            "dead_gw_detect_enabled": null,
+            "default_ip_gateway": null,
+            "default_tos": null,
+            "default_ttl": null,
+            "description": "VirtualBox Host-Only Ethernet Adapter",
+            "dhcp_enabled": false,
+            "dhcp_lease_expires": null,
+            "dhcp_lease_obtained": null,
+            "dhcp_server": null,
+            "dns_domain": null,
+            "dns_domain_suffix_search_order": [
+              "oradev.oraclecorp.com",
+              "idc.oracle.com"
+            ],
+            "dns_enabled_for_wins_resolution": false,
+            "dns_host_name": "YIETHA-LAP",
+            "dns_server_search_order": null,
+            "domain_dns_registration_enabled": false,
+            "forward_buffer_memory": null,
+            "full_dns_registration_enabled": true,
+            "gateway_cost_metric": null,
+            "igmp_level": null,
+            "index": 16,
+            "interface_index": 18,
+            "ip_connection_metric": 10,
+            "ip_enabled": true,
+            "ip_filter_security_enabled": false,
+            "ip_port_security_enabled": null,
+            "ip_sec_permit_ip_protocols": [
+
+            ],
+            "ip_sec_permit_tcp_ports": [
+
+            ],
+            "ip_sec_permit_udp_ports": [
+
+            ],
+            "ip_subnet": [
+              "255.255.255.0",
+              "64"
+            ],
+            "ip_use_zero_broadcast": null,
+            "ipx_address": null,
+            "ipx_enabled": null,
+            "ipx_frame_type": null,
+            "ipx_media_type": null,
+            "ipx_network_number": null,
+            "ipx_virtual_net_number": null,
+            "keep_alive_interval": null,
+            "keep_alive_time": null,
+            "mac_address": "0A:00:27:00:00:12",
+            "mtu": null,
+            "num_forward_packets": null,
+            "pmtubh_detect_enabled": null,
+            "pmtu_discovery_enabled": null,
+            "service_name": "VBoxNetAdp",
+            "setting_id": "{2A2D9A42-DCCE-4887-83C3-5E51F75E22C4}",
+            "tcpip_netbios_options": 0,
+            "tcp_max_connect_retransmissions": null,
+            "tcp_max_data_retransmissions": null,
+            "tcp_num_connections": null,
+            "tcp_use_rfc1122_urgent_pointer": null,
+            "tcp_window_size": null,
+            "wins_enable_lm_hosts_lookup": true,
+            "wins_host_lookup_file": null,
+            "wins_primary_server": null,
+            "wins_scope_id": "",
+            "wins_secondary_server": null
+          },
+          "instance": {
+            "adapter_type": "Ethernet 802.3",
+            "adapter_type_id": 0,
+            "auto_sense": null,
+            "availability": 3,
+            "caption": "[00000016] VirtualBox Host-Only Ethernet Adapter",
+            "config_manager_error_code": 0,
+            "config_manager_user_config": false,
+            "creation_class_name": "Win32_NetworkAdapter",
+            "description": "VirtualBox Host-Only Ethernet Adapter",
+            "device_id": "16",
+            "error_cleared": null,
+            "error_description": null,
+            "guid": "{2A2D9A42-DCCE-4887-83C3-5E51F75E22C4}",
+            "index": 16,
+            "install_date": null,
+            "installed": true,
+            "interface_index": 18,
+            "last_error_code": null,
+            "mac_address": "0A:00:27:00:00:12",
+            "manufacturer": "Oracle Corporation",
+            "max_number_controlled": 0,
+            "max_speed": null,
+            "name": "VirtualBox Host-Only Ethernet Adapter",
+            "net_connection_id": "VirtualBox Host-Only Network",
+            "net_connection_status": 2,
+            "net_enabled": true,
+            "network_addresses": null,
+            "permanent_address": null,
+            "physical_adapter": true,
+            "pnp_device_id": "ROOT\\NET\\0001",
+            "power_management_capabilities": null,
+            "power_management_supported": false,
+            "product_name": "VirtualBox Host-Only Ethernet Adapter",
+            "service_name": "VBoxNetAdp",
+            "speed": "1000000000",
+            "status": null,
+            "status_info": null,
+            "system_creation_class_name": "Win32_ComputerSystem",
+            "system_name": "YIETHA-LAP",
+            "time_of_last_reset": "20170420101545.125599+330"
+          },
+          "counters": {
+
+          },
+          "addresses": {
+            "192.168.56.1": {
+              "prefixlen": "24",
+              "netmask": "255.255.255.0",
+              "broadcast": "192.168.56.255",
+              "family": "inet"
+            },
+            "fe80::d5ed:93a3:c8f9:138d": {
+              "prefixlen": "64",
+              "family": "inet6",
+              "scope": "Link"
+            },
+            "0A:00:27:00:00:12": {
+              "family": "lladdr"
+            }
+          },
+          "mtu": null,
+          "type": "Ethernet 802.3",
+          "arp": {
+            "192.168.56.255": "ff:ff:ff:ff:ff:ff",
+            "224.0.0.2": "01:00:5e:00:00:02",
+            "224.0.0.22": "01:00:5e:00:00:16",
+            "224.0.0.251": "01:00:5e:00:00:fb",
+            "224.0.0.252": "01:00:5e:00:00:fc",
+            "239.255.255.250": "01:00:5e:7f:ff:fa"
+          },
+          "encapsulation": "Ethernet"
+        }
+      },
+      "default_gateway": "10.176.56.1",
+      "default_interface": "0xb"
+    },
+    "counters": {
+      "network": {
+
+      }
+    },
+    "ipaddress": "10.176.59.217",
+    "macaddress": "F0:1F:AF:5F:D5:72",
+    "ip6address": "fe80::68fa:1017:98e9:9d31",
+    "os": "windows",
+    "os_version": "6.1.7601",
+    "platform": "windows",
+    "platform_version": "6.1.7601",
+    "platform_family": "windows",
+    "uptime_seconds": 23302,
+    "uptime": "6 hours 28 minutes 22 seconds",
+    "virtualization": {
+      "systems": {
+
+      }
+    },
+    "languages": {
+      "java": {
+        "version": "1.8.0_121",
+        "runtime": {
+          "name": "Java(TM) SE Runtime Environment",
+          "build": "1.8.0_121-b13"
+        },
+        "hotspot": {
+          "name": "Java HotSpot(TM) 64-Bit Server VM",
+          "build": "25.121-b13, mixed mode"
+        }
+      },
+      "perl": {
+        "version": "5.8.8",
+        "archname": "msys-64int"
+      },
+      "powershell": {
+        "version": "2.0",
+        "ws_man_stack_version": "2.0",
+        "serialization_version": "1.1.0.1",
+        "clr_version": "2.0.50727.5485",
+        "build_version": "6.1.7601.17514",
+        "compatible_versions": [
+          "1.0",
+          "2.0"
+        ],
+        "remoting_protocol_version": "2.1"
+      },
+      "ruby": {
+        "platform": "i386-mingw32",
+        "version": "2.3.1",
+        "release_date": "2016-04-26",
+        "target": "i386-w64-mingw32",
+        "target_cpu": "i386",
+        "target_vendor": "w64",
+        "target_os": "mingw32",
+        "host": "i686-w64-mingw32",
+        "host_cpu": "i686",
+        "host_os": "mingw32",
+        "host_vendor": "w64",
+        "bin_dir": "C:/opscode/chefdk/embedded/bin",
+        "ruby_bin": "C:/opscode/chefdk/embedded/bin/ruby",
+        "gems_dir": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.3.0",
+        "gem_bin": "C:/opscode/chefdk/embedded/bin/gem"
+      }
+    },
+    "chef_packages": {
+      "chef": {
+        "version": "12.19.36",
+        "chef_root": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.3.0/gems/chef-12.19.36-universal-mingw32/lib"
+      },
+      "ohai": {
+        "version": "8.23.0",
+        "ohai_root": "C:/opscode/chefdk/embedded/lib/ruby/gems/2.3.0/gems/ohai-8.23.0/lib/ohai"
+      }
+    },
+    "dmi": {
+
+    },
+    "cloud_v2": null,
+    "command": {
+
+    },
+    "hostname": "YIETHA-LAP",
+    "machinename": "YIETHA-LAP",
+    "fqdn": "YIETHA-LAP.oradev.oraclecorp.com",
+    "domain": "oradev.oraclecorp.com",
+    "keys": {
+      "ssh": {
+
+      }
+    },
+    "fips": {
+      "kernel": {
+        "enabled": false
+      }
+    },
+    "ohai_time": 1492686862.0825531,
+    "packages": {
+      "Apache Tomcat 7.0 Tomcat7 (remove only)": {
+
+      },
+      "CMD Prompt Here PowerToy v1.0.3 (Uninstall only)": {
+        "version": "1.0.3"
+      },
+      "CMD Prompt Here as Administrator PowerToy v1.0.2 (Uninstall only)": {
+        "version": "1.0.2"
+      },
+      "Git version 2.12.2.2": {
+        "version": "2.12.2.2",
+        "publisher": "The Git Development Community",
+        "installdate": "20170418"
+      },
+      "McAfee Security Scan Plus": {
+        "version": "3.11.500.3",
+        "publisher": "McAfee, Inc."
+      },
+      "Microsoft Office Professional Plus 2013": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Sublime Text Build 3126": {
+        "publisher": "Sublime HQ Pty Ltd",
+        "installdate": "20170417"
+      },
+      "McAfee Drive Encryption Agent": {
+        "version": "7.1.3.604",
+        "publisher": "McAfee, Inc.",
+        "installdate": "20170220"
+      },
+      "Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219": {
+        "version": "10.0.40219",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20161220"
+      },
+      "7-Zip 16.02 (x64 edition)": {
+        "version": "16.02.00.0",
+        "publisher": "Igor Pavlov",
+        "installdate": "20170206"
+      },
+      "Microsoft .NET Framework 4.5.2": {
+        "version": "4.5.51209",
+        "publisher": "Microsoft Corporation"
+      },
+      "Java 7 Update 79 (64-bit)": {
+        "version": "7.0.790",
+        "publisher": "Oracle",
+        "installdate": "20160313"
+      },
+      "Java 7 Update 85 (64-bit)": {
+        "version": "7.0.850",
+        "publisher": "Oracle",
+        "installdate": "20151022"
+      },
+      "Java 8 Update 121 (64-bit)": {
+        "version": "8.0.1210.13",
+        "publisher": "Oracle Corporation",
+        "installdate": "20170130"
+      },
+      "Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.60610": {
+        "version": "11.0.60610",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20140911"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x64 9.0.21022": {
+        "version": "9.0.21022",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151110"
+      },
+      "McAfee Agent": {
+        "version": "5.0.4.449",
+        "publisher": "McAfee, Inc.",
+        "installdate": "20170404"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.6161": {
+        "version": "9.0.30729.6161",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20140911"
+      },
+      "Java SE Development Kit 7 Update 75 (64-bit)": {
+        "version": "1.7.0.750",
+        "publisher": "Oracle",
+        "installdate": "20170403"
+      },
+      "Java SE Development Kit 7 Update 79 (64-bit)": {
+        "version": "1.7.0.790",
+        "publisher": "Oracle",
+        "installdate": "20160313"
+      },
+      "Java SE Development Kit 8 Update 102 (64-bit)": {
+        "version": "8.0.1020.14",
+        "publisher": "Oracle Corporation",
+        "installdate": "20160818"
+      },
+      "Oracle VM VirtualBox 5.1.14": {
+        "version": "5.1.14",
+        "publisher": "Oracle Corporation",
+        "installdate": "20170417"
+      },
+      "Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.60610": {
+        "version": "11.0.60610",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20140911"
+      },
+      "Update for Microsoft Office 2013 (KB2837654) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB2760371) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB2863843) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB2760224) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB2726954) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2013 (KB2910941) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB2817316) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2013 (KB2726958) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft InfoPath 2013 (KB2837648) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Word 2013 (KB2863834) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Outlook 2013 (KB2837618) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB2726996) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB2881035) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Visio Viewer 2013 (KB2817301) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB2827239) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB2899522) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Definition Update for Microsoft Office 2013 (KB2760587) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB3039720) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft SkyDrive Pro (KB2837652) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB2817490) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2013 (KB2810009) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB2760610) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB2883095) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB2760344) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Publisher 2013 (KB2883048) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Update for Microsoft Office 2013 (KB2738038) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Microsoft Access MUI (English) 2013": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Microsoft Excel MUI (English) 2013": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Microsoft PowerPoint MUI (English) 2013": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Microsoft Publisher MUI (English) 2013": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Microsoft Outlook MUI (English) 2013": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Microsoft Word MUI (English) 2013": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Microsoft Office Proofing Tools 2013 - English": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Security Update for Microsoft Office 2013 (KB2880463) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Outils de vérification linguistique 2013 de Microsoft Office - Français": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Microsoft Office Proofing Tools 2013 - Español": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Microsoft Office Proofing (English) 2013": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Microsoft InfoPath MUI (English) 2013": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Microsoft Office Shared MUI (English) 2013": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Update for Microsoft Office 2013 (KB2768016) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Security Update for Microsoft Office 2013 (KB2768005) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "Microsoft DCF MUI (English) 2013": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Microsoft OneNote MUI (English) 2013": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Microsoft Groove MUI (English) 2013": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Microsoft Office 32-bit Components 2013": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Microsoft Office Shared 32-bit MUI (English) 2013": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Microsoft Office OSM MUI (English) 2013": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Microsoft Office OSM UX MUI (English) 2013": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Microsoft Office Shared Setup Metadata MUI (English) 2013": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Microsoft Access Setup Metadata MUI (English) 2013": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170320"
+      },
+      "Microsoft Lync MUI (English) 2013": {
+        "version": "15.0.4420.1017",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20170410"
+      },
+      "Update for Skype for Business 2015 (KB3172492) 64-Bit Edition": {
+        "publisher": "Microsoft\u0000"
+      },
+      "CrashPlan PROe": {
+        "version": "4.8.1.4",
+        "publisher": "Code 42 Software",
+        "installdate": "20170407"
+      },
+      "Dell Feature Enhancement Pack": {
+        "version": "2.2.000",
+        "publisher": "Dell",
+        "installdate": "20151022"
+      },
+      "Dell Touchpad": {
+        "version": "8.1200.101.134",
+        "publisher": "ALPS ELECTRIC CO., LTD."
+      },
+      "WIDCOMM Bluetooth Software": {
+        "version": "6.5.1.2410",
+        "publisher": "Broadcom Corporation",
+        "installdate": "20151022"
+      },
+      "Microsoft Visual C++ 2005 Redistributable (x64)": {
+        "version": "8.0.61000",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20140911"
+      },
+      "McAfee Drive Encryption": {
+        "version": "7.1.3.604",
+        "publisher": "McAfee, Inc.",
+        "installdate": "20170220"
+      },
+      "McAfee File and Removable Media Protection": {
+        "version": "4.3.1.138",
+        "publisher": "McAfee",
+        "installdate": "20151103"
+      },
+      "McAfee Host Intrusion Prevention": {
+        "version": "8.00.0801",
+        "publisher": "McAfee, Inc."
+      },
+      "WebCenter Content Desktop": {
+        "version": "11.8.1099",
+        "publisher": "Oracle",
+        "installdate": "20151022"
+      },
+      "Adobe Flash Player 25 ActiveX": {
+        "version": "25.0.0.148",
+        "publisher": "Adobe Systems Incorporated"
+      },
+      "Adobe Flash Player 25 NPAPI": {
+        "version": "25.0.0.127",
+        "publisher": "Adobe Systems Incorporated"
+      },
+      "Advanced Audio FX Engine": {
+        "version": "1.12.05",
+        "publisher": "Creative Technology Ltd"
+      },
+      "Cisco AnyConnect Secure Mobility Client ": {
+        "version": "3.1.10010",
+        "publisher": "Cisco Systems, Inc."
+      },
+      "Dell Webcam Central": {
+        "version": "1.40.05",
+        "publisher": "Creative Technology Ltd"
+      },
+      "Development Base Image": {
+        "version": "7.4.00.0.1",
+        "publisher": "Product Development"
+      },
+      "Google Chrome": {
+        "version": "57.0.2987.133",
+        "publisher": "Google Inc.",
+        "installdate": "20151025"
+      },
+      "Mozilla Firefox 45.8.0 ESR (x86 en-US)": {
+        "version": "45.8.0",
+        "publisher": "Mozilla"
+      },
+      "Mozilla Thunderbird 45.8.0 (x86 en-US)": {
+        "version": "45.8.0",
+        "publisher": "Mozilla"
+      },
+      "Mozilla Maintenance Service": {
+        "version": "45.8.0.6273",
+        "publisher": "Mozilla"
+      },
+      "Notepad++": {
+        "version": "6.8.3",
+        "publisher": "Notepad++ Team"
+      },
+      "Oracle Beehive for Outlook": {
+
+      },
+      "Oracle Data Protection 1.8.0.0": {
+
+      },
+      "Oracle Online Assistance": {
+
+      },
+      "Pidgin": {
+        "version": "2.10.11"
+      },
+      "PrimoPDF": {
+        "version": "4.1.0.9",
+        "publisher": "activePDF"
+      },
+      "WinMerge 2.14.0": {
+        "version": "2.14.0",
+        "publisher": "Thingamahoochie Software",
+        "installdate": "20151110"
+      },
+      "WinSCP 5.7.5": {
+        "version": "5.7.5",
+        "publisher": "Martin Prikryl",
+        "installdate": "20160120"
+      },
+      "Java 7 Update 85": {
+        "version": "7.0.850",
+        "publisher": "Oracle",
+        "installdate": "20151022"
+      },
+      "Java 8 Update 121": {
+        "version": "8.0.1210.13",
+        "publisher": "Oracle Corporation",
+        "installdate": "20170130"
+      },
+      "Dell Client System Update": {
+        "version": "1.2.3",
+        "publisher": "Dell Inc.",
+        "installdate": "20151022"
+      },
+      "Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.60610": {
+        "version": "11.0.60610",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20140911"
+      },
+      "Vagrant": {
+        "version": "1.9.3",
+        "publisher": "HashiCorp",
+        "installdate": "20170417"
+      },
+      "Java Auto Updater": {
+        "version": "2.8.102.14",
+        "publisher": "Oracle Corporation",
+        "installdate": "20160818"
+      },
+      "Oracle Beehive Conferencing": {
+        "version": "1.4",
+        "publisher": "Oracle Corporation",
+        "installdate": "20160128"
+      },
+      "Google Update Helper": {
+        "version": "1.3.33.3",
+        "publisher": "Google Inc.",
+        "installdate": "20170411"
+      },
+      "Live! Cam Avatar Creator": {
+        "version": "4.6.3009.1",
+        "publisher": "Creative Technology Ltd",
+        "installdate": "20151022"
+      },
+      "Citrix Online Launcher": {
+        "version": "1.0.393",
+        "publisher": "Citrix",
+        "installdate": "20151218"
+      },
+      "Microsoft Visual C++ 2005 Redistributable": {
+        "version": "8.0.61001",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20140911"
+      },
+      "Security Update for Microsoft .NET Framework 4.5.2 (KB2972216)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5.2 (KB2978128)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5.2 (KB3023224)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5.2 (KB3037581)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5.2 (KB3074230)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5.2 (KB3074550)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5.2 (KB3097996)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5.2 (KB3098781)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5.2 (KB3122656)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5.2 (KB3127229)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5.2 (KB3135996)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5.2 (KB3135996v2)": {
+        "version": "2",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5.2 (KB3142033)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5.2 (KB3163251)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Update for Microsoft .NET Framework 4.5.2 (KB3210139)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Update for Microsoft .NET Framework 4.5.2 (KB4014559)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Security Update for Microsoft .NET Framework 4.5.2 (KB4014566)": {
+        "version": "1",
+        "publisher": "Microsoft Corporation"
+      },
+      "OpenOffice 4.1.1": {
+        "version": "4.11.9775",
+        "publisher": "Apache Software Foundation",
+        "installdate": "20151022"
+      },
+      "Microsoft Visio Viewer 2013": {
+        "version": "15.0.4569.1506",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151112"
+      },
+      "Microsoft Visual C++ 2012 Redistributable (x86) - 11.0.60610": {
+        "version": "11.0.60610.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.6161": {
+        "version": "9.0.30729.6161",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20140911"
+      },
+      "Microsoft Visual C++ 2012 Redistributable (x64) - 11.0.60610": {
+        "version": "11.0.60610.1",
+        "publisher": "Microsoft Corporation"
+      },
+      "Adobe Refresh Manager": {
+        "version": "1.8.0",
+        "publisher": "Adobe Systems Incorporated",
+        "installdate": "20170413"
+      },
+      "Adobe Acrobat Reader DC": {
+        "version": "17.009.20044",
+        "publisher": "Adobe Systems Incorporated",
+        "installdate": "20170413"
+      },
+      "Cisco AnyConnect Secure Mobility Client": {
+        "version": "3.1.10010",
+        "publisher": "Cisco Systems, Inc.",
+        "installdate": "20151022"
+      },
+      "McAfee SiteAdvisor Enterprise": {
+        "version": "3.5.0.1460\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+        "publisher": "McAfee, Inc.",
+        "installdate": "20170308"
+      },
+      "McAfee VirusScan Enterprise": {
+        "version": "8.8.08000",
+        "publisher": "McAfee, Inc.",
+        "installdate": "20170123"
+      },
+      "Chef Development Kit v1.3.40": {
+        "version": "1.3.40.1",
+        "publisher": "Chef Software, Inc.",
+        "installdate": "20170417"
+      },
+      "Secure Global Desktop Client": {
+        "version": "5.10.947",
+        "publisher": "Oracle",
+        "installdate": "20151125"
+      },
+      "McAfee Drive Encryption Go": {
+        "version": "7.1.3",
+        "publisher": "McAfee, Inc.",
+        "installdate": "20151103"
+      },
+      "IDT Audio": {
+        "version": "1.0.6388.0",
+        "publisher": "IDT",
+        "installdate": "20151022"
+      },
+      "Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.60610": {
+        "version": "11.0.60610",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20140911"
+      },
+      "Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219": {
+        "version": "10.0.40219",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20161220"
+      },
+      "Intel(R) Processor Graphics": {
+        "version": "9.17.10.3040",
+        "publisher": "Intel Corporation"
+      },
+      "Cisco Jabber": {
+        "version": "11.5.1.29644",
+        "publisher": "Cisco Systems, Inc",
+        "installdate": "20160706"
+      },
+      "Microsoft Visual C++ 2008 Redistributable - x86 9.0.21022": {
+        "version": "9.0.21022",
+        "publisher": "Microsoft Corporation",
+        "installdate": "20151110"
+      }
+    },
+    "root_group": "Administrators",
+    "time": {
+      "timezone": "India Standard Time"
+    },
+    "recipes": [
+
+    ],
+    "expanded_run_list": [
+
+    ],
+    "roles": [
+
+    ]
+  }
+}
